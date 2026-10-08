@@ -1,16 +1,14 @@
-## Hi there 👋
+### Hi there, I'm Abdullah Ahmad 👋
 
-<!--
-**abdull-12ah/abdull-12ah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```javascript
+const abdullah = {
+  title: "Data Science Student & Aspiring AI Developer",
+  role: "Data Scientist + AI Developer",
+  university: "BSCS @ UMT Lahore",
+  stack: ["Python", "Pandas", "NumPy", "Scikit-Learn", "SQL", "Git"],
+  focus: ["Data Science", "Machine Learning", "Artificial Intelligence"],
+  status: "Learning Python & AI, one step at a time",
+  goal: "Become a Data Scientist & AI Developer",
+  location: "Lahore, Pakistan"
+};
+```
